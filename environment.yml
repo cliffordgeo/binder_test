@@ -1,0 +1,12 @@
+name: obspy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - spyder=4.2.1
+  - obspy
+  - pandas
+  - beautifulsoup4
+  - pyasdf
+  - jupyter
+prefix: /Users/tomclifford/opt/anaconda3/envs/obspy
